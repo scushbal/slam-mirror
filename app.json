@@ -18,7 +18,7 @@
     },
       "BOT_TOKEN": {
         "description": "El token telegram obtenido del bot en  @BotFather.",
-         "value": "",
+         "value": "1946953941:AAGXh9721tFxfJfDHqFd3UEyTOAtvHYWVEc",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
@@ -77,7 +77,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Tu Heroku API key, desde https://dashboard.heroku.com/account.",
-        "value": "34bb3536-8295-4b71-8ec4-59259881c6e1",
+        "value": "7e0d4d3e-980c-4e21-b30f-05305eb7578e",
         "required": true
       },
       "HEROKU_APP_NAME": {
