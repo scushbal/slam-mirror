@@ -82,7 +82,7 @@
       },
       "HEROKU_APP_NAME": {
         "description": "El nombre de la app que pusiste arriba",
-        "value": "uniqedumx",
+        "value": "uniqedumxbot",
         "required": true
       },
       "UPTOBOX_TOKEN": {
