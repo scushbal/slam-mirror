@@ -119,6 +119,11 @@
         "value": "shrinkme.io",
         "required": true
       },
+      "RCLONE_SYNC": {
+      "description": "Dejalo igual en true.",
+      "value": "true",
+      "required": true
+      },
       "SHORTENER_API": {
         "description": "Fill your shortener api key if you are using shortener.",
         "value": "847bee340446c7abe8f00423740ab23ace370a2d",
